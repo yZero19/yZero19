@@ -23,14 +23,9 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista
 - [Clinica Cuidar Bem](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra
 
 
-## Habilidades
-- Frameworks: [Lista de Frameworks].
-- Ferramentas: [Lista de Ferramentas].
-
 ## Contato
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/vinicius-santos-1aabb1197/)
-- Website: [Seu Website](link-para-o-website)
-- Email: [Email Pessoal](vinicius.santos110vs@gmail.com)
+- LinkedIn: [ Linkedin ](https://www.linkedin.com/in/vinicius-santos-1aabb1197/)
+- Email: [ Email Pessoal ](vinicius.santos110vs@gmail.com)
 
 ## Estatísticas do GitHub
 <div style="width: 200px;">
