@@ -1,21 +1,28 @@
-### Hi there 👋
+# Seu Nome
 
-<!--
-**yZero19/yZero19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista de interesses].
 
-Here are some ideas to get you started:
+## Linguagens de Programação
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Adicione mais logos conforme necessário -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+## Projetos Destacados
+- [Projeto 1](link-para-o-projeto): Breve descrição do projeto.
+- [Projeto 2](link-para-o-projeto): Breve descrição do projeto.
+- [Projeto 3](link-para-o-projeto): Breve descrição do projeto.
+
+## Habilidades
+- Frameworks: [Lista de Frameworks].
+- Ferramentas: [Lista de Ferramentas].
+
+## Contato
+- LinkedIn: [Seu Perfil no LinkedIn](link-para-o-linkedin)
+- Website: [Seu Website](link-para-o-website)
+- Email: [Seu Email](mailto:seuemail@example.com)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
