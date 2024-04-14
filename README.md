@@ -33,7 +33,7 @@
 
 <br>
 
-<div style="width: 200px;">
+<div style="width: 100px;">
   <a href="https://github.com/yZero19/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yZero19&langs_count=8" alt="Top Langs" />
   </a>
