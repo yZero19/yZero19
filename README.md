@@ -5,15 +5,18 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista
 
 ## Linguagens de Programação
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <!-- Adicione mais logos conforme necessário -->
 </p>
 
 ## Projetos Destacados
-- [Projeto 1](link-para-o-projeto): Breve descrição do projeto.
-- [Projeto 2](link-para-o-projeto): Breve descrição do projeto.
-- [Projeto 3](link-para-o-projeto): Breve descrição do projeto.
+- [Projeto 1](https://github.com/yZero19/ZooSups2): Site De Vendas De Suplementos Para Atletas
+- [Projeto 2](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra
+
 
 ## Habilidades
 - Frameworks: [Lista de Frameworks].
