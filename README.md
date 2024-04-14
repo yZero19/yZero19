@@ -1,7 +1,4 @@
-# Seu Nome
-
-## Sobre Mim
-🚀 Aluno de analise e desenvolvimento de sistemas 💻 Futuro Desenvolvedor em constante evolução. 🔧 Programador Full Stack PHP
+# Vinicius Santos
 
 ## Linguagens de Programação
 <p align="left">
