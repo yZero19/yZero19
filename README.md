@@ -1,7 +1,7 @@
 # Seu Nome
 
 ## Sobre Mim
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista de interesses].
+🚀 Aluno de analise e desenvolvimento de sistemas 💻 Futuro Desenvolvedor em constante evolução. 🔧 Programador Full Stack PHP
 
 ## Linguagens de Programação
 <p align="left">
