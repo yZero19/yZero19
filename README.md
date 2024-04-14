@@ -31,11 +31,11 @@
 
 <div>
   <a href="https://github.com/yZero19/github-readme-stats">
-  <img height = 100 width = 150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yZero19&langs_count=8" alt="Top Langs" />
+  <img height = 200 width = 350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yZero19&langs_count=8" alt="Top Langs" />
   </a> 
   <br><br>
   <a href="https://github.com/yZero19/github-readme-stats">
-  <img height= 100 align="center" src="https://github-readme-stats.vercel.app/api?username=yZero19" />
+  <img height= 200 align="center" src="https://github-readme-stats.vercel.app/api?username=yZero19" />
 </a>
 
 </div>
