@@ -8,14 +8,19 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- Adicione mais logos conforme necessário -->
+</p>
+
+## Banco De Dados
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <!-- Adicione mais logos conforme necessário -->
 </p>
 
 ## Projetos Destacados
-- [Projeto 1](https://github.com/yZero19/ZooSups2): Site De Vendas De Suplementos Para Atletas
-- [Projeto 2](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra
+- [ZooSups](https://github.com/yZero19/ZooSups2): Site De Vendas De Suplementos Para Atletas
+- [Clinica Cuidar Bem](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra
 
 
 ## Habilidades
@@ -23,9 +28,13 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em [lista
 - Ferramentas: [Lista de Ferramentas].
 
 ## Contato
-- LinkedIn: [Seu Perfil no LinkedIn](link-para-o-linkedin)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/vinicius-santos-1aabb1197/)
 - Website: [Seu Website](link-para-o-website)
-- Email: [Seu Email](mailto:seuemail@example.com)
+- Email: [Email Pessoal](vinicius.santos110vs@gmail.com)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+<div style="width: 200px;">
+<a href="https://github.com/yZero19/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yZero19&langs_count=8" alt="Top Langs" />
+</a>
+</div>
