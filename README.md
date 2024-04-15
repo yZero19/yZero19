@@ -19,9 +19,7 @@
 
 ## Projetos Destacados
 - [ZooSups](https://github.com/yZero19/ZooSups2): Site De Vendas De Suplementos Para Atletas
-- [Clinica Cuidar Bem](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra
-
-- https://consultoriocuidarbem.netlify.app/
+- [Clinica Cuidar Bem](https://github.com/yZero19/cuidar-bem): Site Pensado Para Um Consultorio Pediatra 
 
 
 ## Contato
