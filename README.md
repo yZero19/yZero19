@@ -1,5 +1,10 @@
 # Vinicius Santos
 
+## Sobre Min
+Olá, sou um desenvolvedor apaixonado por tecnologia e também um ativista da causa LGBTQIA+.
+Sou bissexual e acredito firmemente na importância da inclusão e do respeito a divesidade, dedico parte do meu tempoi a promover a igualdade de genero e a luta
+pelos direitos LGBTQIA+ e acredito que a tecnologia tem um papel fundamental na transformação da sociedade.
+
 ## Linguagens de Programação
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
