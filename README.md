@@ -1,3 +1,7 @@
+## Olá me chamo VInicius Santos
+
+Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no terceiro semestre pela __UNINOVE__.
+
 ## Linguagens de Programação
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
